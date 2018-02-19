@@ -7,7 +7,11 @@ completely different acoustic objects:
 * a solid object (a marimba bar). 
 
 Each of them present different modeling challenges which is why they were 
-chosen.  
+chosen. The two main goals here are to:
+
+* verify how well the acoustic of the objects can be predicted
+* compare the differences between 2 identical objects using modal analysis.
+Therefore, objects should be printed twice. 
 
 ## Model Properties
 
@@ -38,7 +42,7 @@ A standard marimba tone bar.
 
 ## Experiment Steps
 
-1. Print the objects
+1. Print the objects (twice)
 2. Measure their impulse response at different excitation positions
 3. Make the physical model of the objects
 4. Compare the model to the measured impulse responses
