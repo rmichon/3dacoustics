@@ -46,3 +46,11 @@ A standard marimba tone bar.
 2. Measure their impulse response at different excitation positions
 3. Make the physical model of the objects
 4. Compare the model to the measured impulse responses
+
+## About Reproducibility Tests
+
+It should be straight forward to plot the amount of "deviation" between 2 
+objects simply by comparing their impulse responses. If the models are accurate,
+we might be able to establish a physical relationship between the deviating 
+mode and its position on the object. May be adding an asymmetric object to the
+list above might help fine tune this type of system.
