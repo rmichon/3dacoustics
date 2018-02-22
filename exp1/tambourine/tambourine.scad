@@ -5,7 +5,7 @@
 // Parameters
 width = 150;
 shape = 1; // 0.00001 (square) to 1 (circular)
-membrane_thickness = 1;
+membrane_thickness = 0.24;
 frame_height = 30;
 frame_thickness = 3;
 
